@@ -1,0 +1,5 @@
+package goLinkedList
+
+func main() {
+
+}
